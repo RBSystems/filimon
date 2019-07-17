@@ -1,0 +1,35 @@
+0.1    switch
+0.9    panas contr
+0.10    Cam1
+0.11    cam1
+0.12    Cam2
+0.13    cam2
+0.14    cam3
+0.15    Cam3
+0.50    NVX-T
+0.51-55  NVX-R
+0.?	DLink
+0.?	Colosseo
+
+
+1.1    switch
+1.2    cam2
+1.3    cam1
+1.5    ft-tsc600
+1.6    sx80
+1.7    panel sx80
+1.102??    airmedia
+1.9    pc
+1.10   dmps
+1.100  dlink
+
+2.1    switch
+2.2    cam2
+2.3    cam1
+2.5    ft-tsc600
+2.6    sx80
+2.7    panel sx80
+2.8    airmedia
+2.9    pc
+2.10   dmps
+2.100  dlink
